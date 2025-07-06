@@ -1,3 +1,5 @@
-# Работа с git и bash
-1. [Ссылка на bash1](https://github.com/IMV227/git_bash/blob/d19b145635789c612d7cf10074ee30d019c7183e/bash1.txt)
-2. [Ссылка на bash2](https://github.com/IMV227/git_bash/blob/d19b145635789c612d7cf10074ee30d019c7183e/bash2.txt)
+# <i>Работа с git и bash</i>
+1. [Примеры команд bash](https://github.com/IMV227/git_bash/blob/d19b145635789c612d7cf10074ee30d019c7183e/bash1.txt)
+Создание директорий, файлов, их удаление, чтение файлов, добавление информации в файлы и т.д.
+2. [Ссылка на bash2](https://github.com/IMV227/git_bash/blob/d19b145635789c612d7cf10074ee30d019c7183e/bash2.txt) 
+Поиск, фильтрация данных, отправка сетевых запросов.
